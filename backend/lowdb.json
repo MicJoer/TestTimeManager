@@ -1,0 +1,130 @@
+{
+  "hoursSingleDay": [
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "timeInterval": {
+        "fromDateTime": "2020-04-02T11:11:00.000Z",
+        "toDateTime": "2020-04-02T22:22:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "timeInterval": {
+        "fromDateTime": "2020-04-05T11:02:00.000Z",
+        "toDateTime": "2020-04-05T12:03:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "timeInterval": {
+        "fromDateTime": "2020-04-03T10:00:00.000Z",
+        "toDateTime": "2020-04-03T12:00:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "timeInterval": {
+        "fromDateTime": "2020-04-03T13:00:00.000Z",
+        "toDateTime": "2020-04-03T15:11:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "timeInterval": {
+        "fromDateTime": "2020-04-04T01:01:00.000Z",
+        "toDateTime": "2020-04-04T02:01:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "timeInterval": {
+        "fromDateTime": "2020-04-04T03:03:00.000Z",
+        "toDateTime": "2020-04-04T04:03:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 7,
+      "timeInterval": {
+        "fromDateTime": "2020-04-07T01:01:00.000Z",
+        "toDateTime": "2020-04-07T02:02:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "timeInterval": {
+        "fromDateTime": "2020-04-02T04:05:00.000Z",
+        "toDateTime": "2020-04-02T05:05:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "timeInterval": {
+        "fromDateTime": "2020-04-01T11:11:00.000Z",
+        "toDateTime": "2020-04-01T22:22:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "timeInterval": {
+        "fromDateTime": "2020-04-01T13:13:00.000Z",
+        "toDateTime": "2020-04-01T14:14:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "timeInterval": {
+        "fromDateTime": "2020-04-06T13:00:00.000Z",
+        "toDateTime": "2020-04-06T18:00:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "timeInterval": {
+        "fromDateTime": "2020-04-06T18:00:00.000Z",
+        "toDateTime": "2020-04-06T20:00:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "timeInterval": {
+        "fromDateTime": "2020-04-08T09:00:00.000Z",
+        "toDateTime": "2020-04-08T16:00:00.000Z"
+      }
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "timeInterval": {
+        "fromDateTime": "2020-04-11T09:00:00.000Z",
+        "toDateTime": "2020-04-11T11:30:00.000Z"
+      }
+    }
+  ]
+}

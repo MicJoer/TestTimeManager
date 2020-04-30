@@ -1,0 +1,11 @@
+{
+        
+    "typescript.format.enable": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "trailingComma":"none",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": false
+}
