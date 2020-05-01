@@ -9,7 +9,7 @@ export default function PageOverview(props: {
     >;
 }) {
     const { apiGetHourSumByMonth } = props;
-    const datesInMonth = getAllDatesInMonth(new Date(2020, 3, 1)).map(
+    const datesInMonth = getAllDatesInMonth(new Date()).map(
         dateToDateString
     );
     const [dataList, setDataListHours] = useState<

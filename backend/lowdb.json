@@ -125,6 +125,15 @@
         "fromDateTime": "2020-04-11T09:00:00.000Z",
         "toDateTime": "2020-04-11T11:30:00.000Z"
       }
+    },
+    {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "timeInterval": {
+        "fromDateTime": "2020-05-01T10:00:00.000Z",
+        "toDateTime": "2020-05-01T12:00:00.000Z"
+      }
     }
   ]
 }
